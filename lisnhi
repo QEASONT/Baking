@@ -1,0 +1,863 @@
+<section id="Intro" class="main style1 dark fullscreen">
+    <div class="content container 75%">
+        <header>
+            <h2>Hi</h2>
+        </header>
+        <p>Welcome to <highlight>QT's Baking Yard</highlight>. <br/>A place to record my <highlight>Baking Journey</highlight> and  share my <highlight>Own Recipe</highlight>.</p>
+        <footer>
+            <a href="#What" class="button style2 down">More</a>
+        </footer>
+    </div>
+</section>
+
+
+p {
+	margin-bottom: 1em;
+}
+
+/* Dark */
+
+.dark {
+	color: #fff;
+}
+
+.dark a {
+	color: #fff;
+}
+
+.dark .button.style2 {
+	border-color: inherit;
+	background-color: rgba(64, 64, 64, 0.05);
+}
+
+.dark .button.style2:hover {
+	background-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark .button.style2.down {
+	background-image: url('images/dark-arrow.svg');
+}
+
+.main {
+	position: relative;
+	margin: 0;
+	overflow-x: hidden;
+}
+
+.main.fullscreen {
+	height: 100%;
+}
+
+.main.style1 {
+	text-align: center;
+	padding: 3em 0 3em 0;
+}
+
+.main.style1:before {
+	content: '';
+	display: inline-block;
+	vertical-align: middle;
+	height: 100%;
+}
+
+.main.style1 .content {
+	opacity: 1.0;
+	display: inline-block;
+	vertical-align: middle;
+
+	-moz-transition: all 1s ease;
+	-webkit-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+
+	-moz-transform: translateZ(0);
+	-webkit-transform: translateZ(0);
+	-o-transform: translateZ(0);
+	-ms-transform: translateZ(0);
+	transform: translateZ(0);
+}
+
+/* Container */
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+
+	/* width: (containers) */
+	width: 1200pxç
+}
+
+/* 75% */
+.container.\37 5\25 {
+
+	/* width: (containers * 0.75) */
+	width: 900px;
+
+}
+
+
+/*********************************************************************************/
+/* Intro                                                                         */
+/*********************************************************************************/
+
+#Intro {
+	background: url('images/overlay.png'), url('../main/image/web.png');
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, bottom center;
+	background-repeat: repeat, no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+zheli
+<div class="home">
+    <div class="content">
+        <div class="stars"></div>
+        <img class="bgc" src="image/2.2.jpg" width="100%" alt="">
+        <h1 class="title">欢迎来到我们的网站</h1>
+        <h1 class="titles">今天也要加油鸭 连花清瘟 只为驱除冬日寒冷</h1>
+        <img class="icon" src="image\2237541326.jpg" alt="">
+    </div>
+    <div class="introduce">
+        <div class="introduce_item">
+           <img class="introduce_item_img" src="image\IMG_2374(20200630-204236).JPG" alt="">
+           <section class="link-curtain">
+                <span class="introduce_item_titles">
+                    <p>&ensp; </p>
+                    <p>&ensp; </p>
+                    <p>&ensp; </p>
+                    <p>疫情，是人与病毒的战争，八十多岁高龄奔赴前线的院士，
+                    宣誓出征的<a >医护人员</a>是这战场上闪耀的英雄。
+                    “身着白衣，心有锦缎。”他们同<a >病魔</a>搏斗，与<a >死亡</a>交锋。
+                    在冬夜来临之际，一场疫情席卷了神州大地。昔日小城变得安静孤独，
+                    却也有一群<a >逆行者</a>成为我们的英雄。</p>
+                </span>
+                
+        </section> 
+         
+        </div>
+        <div class="introduce_item">
+            <section class="link-braces">
+                <span class="introduce_item_titles">
+                    <p>&ensp; </p>
+                    <p>&ensp; </p>
+                    <p>&ensp; </p>
+                    <p>&ensp; </p>
+                    <p>乌云遮掩了黎明的曙光，这场没有硝烟的<a >战争</a>已经打响，当务之急，
+                我们应当肩负起<a >“抗疫”的重任</a>，携手打赢这一仗。没有一个冬天<a >不可逾越</a>
+                没有一个春天不会来临</p>
+                </span>
+            </section>
+            <img class="introduce_item_img" src="image\IMG_2375(20200630-204236).JPG" alt="">
+            
+        </div>
+        <div class="introduce_item">
+            <img class="introduce_item_img" src="image\IMG_2376(20200630-204236).JPG" alt="">
+            <section class="link-fadeinbg">
+                <span class="introduce_item_title1">
+                    <p>&ensp; </p>
+                    <p>&ensp; </p>
+                    <p>&ensp; </p>
+                    <p>当温暖的阳光再次照耀着<a>大地</a>，远处的小山都金灿灿的<a >美轮美奂</a>，
+                        它穿梭于微隙的气息。乌云终将消散，只需我们耐心等待那<a >一缕曙光</a>的到来，
+                        疫情在前，重任在肩。这场战争将会被我们画上<a >完美的句号</a>。星光点缀夜空是
+                        <a >锦上添花</a>之福，
+                        挺身而出的人是<a >雪中送炭</a>之恩
+                    </p>
+                </span>
+            </section>
+            
+        </div>
+        <div class="introduce_item">
+            <span class="introduce_item_titles">
+                <section class="link-textupline">
+                    <p>满目星河，怎及你背影半分。<a >黑夜</a>终将过去，<a >黎明</a>总会到来。
+                        <a >历经沧桑的民族</a>不论天灾，亦或是人祸，<a >恒古不变的爱</a>会让阳光
+                        再次普照大地，阴霾终将散去，驱逐掉因<a >新冠病毒</a>而肆虐的浓雾。新冠病毒终将
+                        成为被<a >尘埃掩埋</a>的过去。二月，<a >春光将至</a>，一切都在变好、变好……
+                    </p>
+                </section>      
+            </span>  
+            <img class="introduce_item_img" src="image\IMG_2377(20200630-204236).JPG" alt="">
+        </div>
+    </div>
+
+
+    /* Fade in background */
+.link-fadeinbg {
+	background: rgba(149, 165, 166, 0.1);
+	width: 300px;
+}
+
+.link-fadeinbg a {
+	border-bottom: 1px solid rgba(52, 73, 94, 0.4);
+	font-weight: 500;
+	-webkit-transition: background-color 0.3s, border-color 0.3s;
+	transition: background-color 0.3s, border-color 0.3s;
+}
+
+.link-fadeinbg a:hover,
+.link-fadeinbg a:focus {
+	border-color: rgba(52, 73, 94, 0);
+	background-color: rgba(52, 73, 94, 0.1);
+}
+
+/* Slide up */
+.link-slideup {
+	background: #f9f9f9;
+	color: #34495e;
+}
+
+.link-slideup a {
+	overflow: hidden;
+	font-weight: 500;
+}
+
+.link-slideup a::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(52, 73, 94, 0.2);
+	content: '';
+	-webkit-transition: -webkit-transform 0.2s;
+	transition: transform 0.2s;
+	-webkit-transform: translateY(95%);
+	transform: translateY(95%);
+}
+
+.link-slideup a:hover::before,
+.link-slideup a:focus::before {
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+}
+
+/* Slide right */
+.link-slideright {
+	background: rgba(149, 165, 166, 0.3);
+}
+
+.link-slideright a {
+	overflow: hidden;
+	font-weight: 500;
+	color: #E74C3C;
+}
+
+.link-slideright a::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+	background: rgba(149, 165, 166, 0.4);
+	content: '';
+	-webkit-transition: -webkit-transform 0.3s;
+	transition: transform 0.3s;
+	-webkit-transform: scaleY(0.618) translateX(-100%);
+	transform: scaleY(0.618) translateX(-100%);
+}
+
+.link-slideright a:hover::before,
+.link-slideright a:focus::before {
+	-webkit-transform: scaleY(0.618) translateX(0);
+	transform: scaleY(0.618) translateX(0);
+}
+
+/* Scale up bounce */
+.link-scaleupbounce {
+	background: #e74c3c;
+	color: #fff;
+}
+
+.link-scaleupbounce a {
+	vertical-align: bottom;
+	font-weight: 500;
+}
+
+.link-scaleupbounce a::before {
+	position: absolute;
+	top: 0;
+	left: -5px;
+	z-index: -1;
+	box-sizing: content-box;
+	padding: 0 5px;
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+	content: '';
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+	transition: transform 0.2s, opacity 0.2s;
+	-webkit-transition-timing-function: cubic-bezier(0.25, 0.25, 0.325, 1.39);
+	transition-timing-function: cubic-bezier(0.25, 0.25, 0.325, 1.39);
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+
+.link-scaleupbounce a:hover::before,
+.link-scaleupbounce a:focus::before {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+/* Scale up */
+.link-scaleup {
+	background: #34495e;
+	color: #b4b4b4;
+}
+
+.link-scaleup a {
+	color: #e74c3c;
+	font-weight: 500;
+}
+
+.link-scaleup a::before {
+	position: absolute;
+	top: 0;
+	left: -5px;
+	z-index: -1;
+	box-sizing: content-box;
+	padding: 0 5px;
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+	background-color: #fff;
+	content: '';
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+	transition: transform 0.2s, opacity 0.2s;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+
+.link-scaleup a:hover::before,
+.link-scaleup a:focus::before {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+/* Scale down */
+.link-scaledown {
+	background: rgba(149, 165, 166, 0.5);
+}
+
+.link-scaledown a {
+	color: #293b4c;
+	text-decoration: underline;
+	font-weight: 500;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+}
+
+.link-scaledown a:hover,
+.link-scaledown a:focus {
+	color: #f3f3f3;
+}
+
+.link-scaledown a::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+	border-radius: 5px;
+	background-color: rgba(255, 255, 255, 1);
+	content: '';
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.3s, background-color 0.2s;
+	transition: transform 0.2s, opacity 0.2s, background-color 0.2s;
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.link-scaledown a:hover::before,
+.link-scaledown a:focus::before {
+	background-color: rgba(255, 255, 255, 0);
+	opacity: 1;
+	-webkit-transform: scaleX(1) scaleY(0.618);
+	transform: scaleX(1) scaleY(0.618);
+}
+
+/* Flip */
+.link-flip {
+	background: rgba(149, 165, 166, 0.2);
+}
+
+.link-flip a {
+	font-weight: 500;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+	-webkit-perspective: 600px;
+	perspective: 600px;
+	-webkit-perspective-origin: 50% 100%;
+	perspective-origin: 50% 100%;
+}
+
+.link-flip a:hover,
+.link-flip a:focus {
+	color: #e74c3c;
+}
+
+.link-flip a::before,
+.link-flip a::after {
+	position: absolute;
+	top: 0;
+	left: -4px;
+	z-index: -1;
+	box-sizing: content-box;
+	padding: 0 4px;
+	width: 100%;
+	height: 100%;
+	content: '';
+}
+
+.link-flip a::before {
+	background-color: #fff;
+	-webkit-transition: -webkit-transform 0.2s;
+	transition: transform 0.2s;
+	-webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	-webkit-transform: rotateX(90deg);
+	transform: rotateX(90deg);
+	-webkit-transform-origin: 50% 100%;
+	transform-origin: 50% 100%;
+}
+
+.link-flip a:hover::before,
+.link-flip a:focus::before {
+	-webkit-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+}
+
+.link-flip a::after {
+	border-bottom: 2px solid #fff;
+}
+
+/* Border */
+.link-border a {
+	color: #e74c3c;
+	font-weight: 500;
+	-webkit-transition: -webkit-transform 0.2s;
+	transition: transform 0.2s;
+}
+
+.link-border a:hover,
+.link-border a:focus {
+	-webkit-transform: scale(0.8333);
+	transform: scale(0.8333);
+}
+
+.link-border a::before {
+	position: absolute;
+	top: -2px;
+	left: -7px;
+	box-sizing: content-box;
+	padding: 0 5px;
+	width: 100%;
+	height: 100%;
+	border: 2px solid #e74c3c;
+	content: '';
+	opacity: 0;
+	-webkit-transition: opacity 0.2s, -webkit-transform 0.2s;
+	transition: opacity 0.2s, transform 0.2s;
+	-webkit-transform: scale(0.8333);
+	transform: scale(0.8333);
+}
+
+.link-border a:hover::before,
+.link-border a:focus::before {
+	opacity: 1;
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+/* Skewed */
+.link-skewed {
+	background: rgba(149, 165, 166, 0.1);
+}
+
+.link-skewed a {
+	font-weight: 500;
+	color: #E74C3C;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+}
+
+.link-skewed a:hover,
+.link-skewed a:focus {
+	color: #fff;
+}
+
+.link-skewed a::before {
+	position: absolute;
+	top: 0px;
+	left: -5px;
+	z-index: -1;
+	box-sizing: content-box;
+	padding: 0 5px;
+	width: 100%;
+	height: 100%;
+	background: #e74c3c;
+	content: '';
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+	transition: transform 0.2s, opacity 0.2s;
+	-webkit-transform: skewY(-3deg) skewX(-11deg);
+	transform: skewY(-3deg) skewX(-11deg);
+}
+
+.link-skewed a:hover::before,
+.link-skewed a:focus::before {
+	opacity: 1;
+	-webkit-transform: skewY(0) skewX(0);
+	transform: skewY(0) skewX(0);
+}
+
+/* SVG line */
+.link-svgline a {
+	font-weight: 500;
+	color: #E74C3C;
+}
+
+.link-svgline a svg.link-svgline {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	overflow: hidden;
+	margin: 0;
+	width: 100%;
+	height: 20px;
+	-webkit-transition: stroke-dashoffset 0.3s ease-in-out;
+	transition: stroke-dashoffset 0.3s ease-in-out;
+	-webkit-transform: translateY(-90%);
+	transform: translateY(-90%);
+	fill: none;
+	stroke: #b1d474;
+	stroke-width: 5;
+	stroke-dasharray: 400px;
+	stroke-dashoffset: 400px;
+}
+
+@media screen and (max-width: 50em) {
+	.link-svgline a svg.link-svgline {
+		-webkit-transform: translateY(-80%);
+		transform: translateY(-80%);
+	}
+}
+
+.link-svgline a:hover svg.link-svgline {
+	stroke-dashoffset: 0px;
+}
+
+/* SVG marker */
+.link-svgmarker {
+	background: rgba(149, 165, 166, 0.4);
+}
+
+.link-svgmarker a {
+	font-weight: 500;
+}
+
+.link-svgmarker a svg.link-svgline {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: -1;
+	overflow: hidden;
+	margin: 0;
+	width: 100%;
+	height: 60px;
+	opacity: 0.5;
+	-webkit-transition: stroke-dashoffset 0.3s ease-in-out;
+	transition: stroke-dashoffset 0.3s ease-in-out;
+	-webkit-transform: translateY(-100%);
+	transform: translateY(-100%);
+	fill: none;
+	stroke: #f0f567;
+	stroke-width: 36;
+	stroke-dasharray: 400px;
+	stroke-dashoffset: 400px;
+}
+
+@media screen and (max-width: 50em) {
+	.link-svgmarker a svg.link-svgline {
+		-webkit-transform: translateY(-80%);
+		transform: translateY(-80%);
+	}
+}
+
+.link-svgmarker a:hover svg.link-svgline {
+	stroke-dashoffset: 0px;
+}
+
+/* Text up line */
+.link-textupline a {
+	overflow: hidden;
+	font-weight: 800;
+	-webkit-transition: -webkit-transform 0.3s;
+	transition: transform 0.3s;
+}
+
+.link-textupline a:hover,
+.link-textupline a:focus {
+	-webkit-transform: translateY(10%);
+	transform: translateY(10%);
+}
+
+.link-textupline a::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
+	background: #d1d1d1;
+	content: '';
+	-webkit-transition: -webkit-transform 0.3s;
+	transition: transform 0.3s;
+	-webkit-transform: translateY(100%) translateY(-5px);
+	transform: translateY(100%) translateY(-5px);
+}
+
+.link-textupline a,
+.link-textupline a::before {
+	-webkit-transition-timing-function: cubic-bezier(0.6, 0, 0.4, 1);
+	transition-timing-function: cubic-bezier(0.6, 0, 0.4, 1);
+}
+
+.link-textupline a:hover::before,
+.link-textupline a:focus::before {
+	-webkit-transform: translateY(-100%) translateY(5px);
+	transform: translateY(-100%) translateY(5px);
+}
+
+/* Tooltip overlay */
+.link-tipoverlay {
+	background: #404d5b;
+	color: #95a5a6;
+}
+
+.link-tipoverlay a {
+	color: #fff;
+}
+
+.link-tipoverlay a::before {
+	position: absolute;
+	z-index: 2;
+	top: -50%;
+	left: -50%;
+	padding: 1.8em 1em 1em 3.7em;
+	width: 200%;
+	height: 200%;
+	background: #fff url(img/link.svg) no-repeat -3em 50%;
+	background-size: auto 40%;
+	color: #404d5b;
+	color: transparent;
+	content: attr(href);
+	white-space: pre-wrap;
+	word-break: break-all;
+	font-weight: 600;
+	font-size: 50%;
+	line-height: 1.2;
+	opacity: 0.2;
+	-webkit-transition: opacity 0.3s, color 0.3s, -webkit-transform 0.3s, background-position 0.2s;
+	transition: opacity 0.3s, color 0.3s, transform 0.3s, background-position 0.2s;
+	-webkit-transform: scale(0.5);
+	transform: scale(0.5);
+	pointer-events: auto;
+	box-sizing: border-box;
+}
+
+.link-tipoverlay a:hover::before,
+.link-tipoverlay a:focus::before {
+	background-position: 1em 50%;
+	color: #404d5b;
+	opacity: 1;
+	-webkit-transition-delay: 0s, 0s, 0s, 0.1s;
+	transition-delay: 0s, 0s, 0s, 0.1s;
+	-webkit-transform: scale(1) translateY(-75%);
+	transform: scale(1) translateY(-75%);
+}
+
+/* Arrow */
+.link-arrow {
+	background: rgba(149, 165, 166, 0.4);
+}
+
+.link-arrow a {
+	padding: 0 0.25em;
+	font-weight: 500;
+	-webkit-transition: -webkit-transform 0.3s;
+	transition: transform 0.3s;
+	-webkit-transform: translateX(0);
+	transform: translateX(0);
+}
+
+.link-arrow a:hover,
+.link-arrow a::after {
+	-webkit-transform: translateX(-1em);
+	transform: translateX(-1em);
+}
+
+.link-arrow a::before,
+.link-arrow a::after {
+	position: absolute;
+	height: 100%;
+	content: '';
+}
+
+.link-arrow a::before {
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	background: #fff;
+}
+
+.link-arrow a::after {
+	left: 100%;
+	z-index: -2;
+	width: 1em;
+	background: #34495e url(img/arrow_right.svg) no-repeat 50% 50%;
+	background-size: 60% auto;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	-webkit-transition: -webkit-transform 0.3s;
+	transition: transform 0.3s;
+	pointer-events: auto;
+}
+
+.link-arrow a:hover::after,
+.link-arrow a:focus::after {
+	-webkit-transform: translateX(0);
+	transform: translateX(0);
+}
+
+
+/* Text scale */
+.link-braces {
+	width: 300px;
+}
+
+.link-braces a {
+
+	padding: 0 0.25em;
+	font-weight: 500;
+	text-decoration: underline;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+}
+
+.link-braces a:hover {
+	color: #d04c3f;
+}
+
+.link-braces a::before,
+.link-braces a::after {
+	position: absolute;
+	top: 0;
+	font-weight: 100;
+	font-size: 150%;
+	line-height: 1;
+	opacity: 0;
+	-webkit-transition: opacity 0.2s, -webkit-transform 0.2s;
+	transition: opacity 0.2s, transform 0.2s;
+}
+
+.link-braces a::before {
+	left: -0.1em;
+	content: '[';
+	-webkit-transform: translateX(-100%);
+	transform: translateX(-100%);
+}
+
+.link-braces a::after {
+	right: -0.1em;
+	content: ']';
+	-webkit-transform: translateX(100%);
+	transform: translateX(100%);
+}
+
+.link-braces a:hover::before,
+.link-braces a:hover::after {
+	opacity: 1;
+	-webkit-transform: translateX(0);
+	transform: translateX(0);
+}
+
+/* Text fall */
+.link-textfall {
+	background: #34495e;
+	color: #fff;
+}
+
+.link-textfall a {
+	color: #4c8fbb;
+	font-weight: 400;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+	-webkit-perspective: 1000px;
+	perspective: 1000px;
+}
+
+.link-textfall a:hover {
+	color: #afd6f0;
+}
+
+.link-textfall a::before,
+.link-textfall a::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	content: attr(data-dummy);
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s, color 0.3s;
+	transition: transform 0.3s, opacity 0.3s, color 0.3s;
+	pointer-events: none;
+}
+
+.link-textfall a::before {
+	color: #7db8de;
+	-webkit-transition-delay: 0.15s;
+	transition-delay: 0.15s;
+	-webkit-transform: translateY(-100%) translateZ(100px) rotateX(30deg) rotateZ(-10deg);
+	transform: translateY(-100%) translateZ(100px) rotateX(30deg) rotateZ(-10deg);
+}
+
+.link-textfall a::after {
+	color: #afd6f0;
+	-webkit-transform: translateY(-100%) translateZ(100px) rotateX(-30deg) rotateZ(10deg);
+	transform: translateY(-100%) translateZ(100px) rotateX(-30deg) rotateZ(10deg);
+}
+
+.link-textfall a:hover::before,
+.link-textfall a:hover::after {
+	color: transparent;
+	opacity: 1;
+	-webkit-transform: translateY(0) translateZ(0) rotateX(0) rotateZ(0);
+	transform: translateY(0) translateZ(0) rotateX(0) rotateZ(0);
+}
+
+.link-textfall a:hover::before {
+	-webkit-transition-delay: 0s;
+	transition-delay: 0s;
+}
+
+.link-textfall a:hover::after {
+	-webkit-transition-delay: 0.15s;
+	transition-delay: 0.15s;
+}
